@@ -1,3 +1,4 @@
 'Hello World !' 
 "hello again" 
 "halo nama saya rais sulaiman rusid" 
+"saya sedang belajar python" 
